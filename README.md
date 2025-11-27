@@ -71,31 +71,41 @@ Asegurarse de tener la API corriendo
 -------------------------------------------
 ### Demostración de algunas pantallas
 
-Pantalla Inicio de sesion: 
+Pantalla Inicio de sesión: 
+
 <img width="338" height="721" alt="Image" src="https://github.com/user-attachments/assets/b94a0999-6369-4aa9-b9db-089cccababde" />
 
 Pantalla Registro:
+
 <img width="319" height="700" alt="Image" src="https://github.com/user-attachments/assets/08107a77-67e5-4285-8c5c-e2fd72d3d1f0" />
 
-Pantalla 
+Pantalla Home para las notas:
+
 <img width="327" height="707" alt="Image" src="https://github.com/user-attachments/assets/3203c997-5983-4293-8147-dfb004929d0e" />
 
-Pantalla :
+Menú de opciones :
+
 <img width="331" height="717" alt="Image" src="https://github.com/user-attachments/assets/5744cdc5-eec6-429c-94e2-833977470295" />
 
-Pantalla :
+Pantalla Editar Perfil:
+
+<img width="359" height="778" alt="Image" src="https://github.com/user-attachments/assets/30234304-d481-4364-8eaf-91af00343902" />
+
+Pantalla Historial:
+
 <img width="319" height="690" alt="Image" src="https://github.com/user-attachments/assets/47df57ec-97b1-4232-8d18-4a984f451d4a" />
 
-Pantalla :
+Pantalla Ajustes:
+
 <img width="317" height="697" alt="Image" src="https://github.com/user-attachments/assets/cece3882-7c4c-4db1-88f8-7f54c6b3cb98" />
 
-Pantalla :
-<img width="318" height="697" alt="Image" src="https://github.com/user-attachments/assets/899a3731-8df7-4a72-852c-abc0e6aa36ea" />
+Pantalla Ajustes Modo oscuro activado:
 
-Pantalla :
 <img width="327" height="723" alt="Image" src="https://github.com/user-attachments/assets/28f1294f-0aeb-4421-ac66-c435db3d6a39" />
 
-Pantalla :
-<img width="359" height="778" alt="Image" src="https://github.com/user-attachments/assets/30234304-d481-4364-8eaf-91af00343902" />
+Pantalla Cerrar Sesión:
+
+<img width="318" height="697" alt="Image" src="https://github.com/user-attachments/assets/899a3731-8df7-4a72-852c-abc0e6aa36ea" />
+
 
 
